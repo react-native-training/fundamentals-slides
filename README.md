@@ -1,4 +1,4 @@
-Chek out [ReactNative.training](http://reactnative.training/) and contact us if you would like us to come to your company and deliver an existing curriculum or tailored training experience.
+Chek out [ReactNative.training](http://reactnative.training/) and contact us if you would like us to come to your company and deliver an existing curriculum or tailored training experience, or hire us as consultants.
 
 
 # React Native Fundamentals Slides
