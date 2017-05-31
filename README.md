@@ -1,3 +1,6 @@
+Chek out [ReactNative.training](http://reactnative.training/) and contact us if you would like us to come to your company and deliver an existing curriculum or tailored training experience.
+
+
 # React Native Fundamentals Slides
 
 ## What is included here:
